@@ -1,5 +1,7 @@
 # 🐍 Python Projects Portfolio
 
+![Project Banner](Banner.png)
+
 A Collection of **Python Projects** built while Learning and Practicing **Python Programming**, **Object-Oriented Programming (OOP)**, **GUI Development**, **APIs**, **Automation**, **File Handling**, and **Game Development**.
 
 This repository showcases my journey from beginner **Python Concepts** to **Real-World Applications** through **Hands-on Projects**.
